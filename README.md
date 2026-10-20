@@ -130,5 +130,24 @@ Student | Electric Vehicle Population Analysis
 
 </div>
 
+---
+
+---
+
+## 📊 Power BI Dashboard Screenshots
+
+### 1. EV Overview
+
+![EV Overview](Power%20BI%20Dashboard%20Screenshots/ev-dashboard.png)
+
+### 2. Vehicle Insights
+
+![Vehicle Insights](Power%20BI%20Dashboard%20Screenshots/vehicle-insights.png)
+
+### 3. Geographic & Eligibility Analysis
+
+![Geographic & Eligibility Analysis](Power%20BI%20Dashboard%20Screenshots/geographic-eligibility-analysis.png)
+
+---
 
 
